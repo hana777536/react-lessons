@@ -11,6 +11,10 @@ function App() {
       <Header/>
       <Statistics/>
       <StudentList icon="HK" course="JavaScript" name="Hana Krasniqi" presence="Present" grade="A" results="Pass" projects="Project 1" progress="80%"/>
+      <StudentList icon="HK" course="JavaScript" name="Hana Krasniqi" presence="Present" grade="A" results="Pass" projects="Project 1" progress="80%"/>
+      <StudentList icon="HK" course="JavaScript" name="Hana Krasniqi" presence="Present" grade="A" results="Pass" projects="Project 1" progress="80%"/>
+      <StudentList icon="HK" course="JavaScript" name="Hana Krasniqi" presence="Present" grade="A" results="Pass" projects="Project 1" progress="80%"/>
+
     </div>
   )
 }
